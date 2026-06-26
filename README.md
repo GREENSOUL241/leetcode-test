@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GREENSOUL241/leetcode-test/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/GREENSOUL241/leetcode-test/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GREENSOUL241/leetcode-test/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/GREENSOUL241/leetcode-test/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
