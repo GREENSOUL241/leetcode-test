@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GREENSOUL241/leetcode-test/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/GREENSOUL241/leetcode-test/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GREENSOUL241/leetcode-test/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GREENSOUL241/leetcode-test/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
