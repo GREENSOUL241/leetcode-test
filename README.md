@@ -27,6 +27,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GREENSOUL241/leetcode-test/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/GREENSOUL241/leetcode-test/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/GREENSOUL241/leetcode-test/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0027-remove-element](https://github.com/GREENSOUL241/leetcode-test/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GREENSOUL241/leetcode-test/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/GREENSOUL241/leetcode-test/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/GREENSOUL241/leetcode-test/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
