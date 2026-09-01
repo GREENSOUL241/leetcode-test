@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/GREENSOUL241/leetcode-test/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GREENSOUL241/leetcode-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GREENSOUL241/leetcode-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0136-single-number) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
