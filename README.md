@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/GREENSOUL241/leetcode-test/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/GREENSOUL241/leetcode-test/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/GREENSOUL241/leetcode-test/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/GREENSOUL241/leetcode-test/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GREENSOUL241/leetcode-test/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/GREENSOUL241/leetcode-test/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/GREENSOUL241/leetcode-test/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GREENSOUL241/leetcode-test/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GREENSOUL241/leetcode-test/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0202-happy-number) |
 ## Bracket Sequences
 |  |
 | ------- |
