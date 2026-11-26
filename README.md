@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/GREENSOUL241/leetcode-test/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GREENSOUL241/leetcode-test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GREENSOUL241/leetcode-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/GREENSOUL241/leetcode-test/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GREENSOUL241/leetcode-test/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -93,11 +96,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GREENSOUL241/leetcode-test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/GREENSOUL241/leetcode-test/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GREENSOUL241/leetcode-test/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +123,7 @@
 | [0015-3sum](https://github.com/GREENSOUL241/leetcode-test/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GREENSOUL241/leetcode-test/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/GREENSOUL241/leetcode-test/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/GREENSOUL241/leetcode-test/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
